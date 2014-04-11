@@ -14,6 +14,7 @@ An auto-generated, responsive CSS image slider
   </figure>
 </div>
 ```
+(The `id` values may be changed and customised in the script)
 * Add `cssslidy.js` to the bottom of the page.
 * Call `cssSlidy()`:
 ```html
